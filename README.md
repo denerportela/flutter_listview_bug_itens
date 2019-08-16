@@ -1,6 +1,6 @@
 # test_listview
 
-A new Flutter project.
+Projeto em Flutter para demonstrar erro ao adicionar mais de 3 itens na ListView
 
 ## Getting Started
 
